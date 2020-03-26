@@ -9,6 +9,6 @@ public class name {
         System.out.println("Enter age");
         int age=sc.nextInt();
         System.out.println("user: "+user);
-        System.out.println("age: "+age);
+        System.out.println("age is: "+age);
     }
 }
